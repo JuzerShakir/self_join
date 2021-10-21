@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  project_title: MyString
+  grp_leader: 
+
+two:
+  name: MyString
+  project_title: MyString
+  grp_leader: 
